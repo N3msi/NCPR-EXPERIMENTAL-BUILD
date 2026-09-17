@@ -15,4 +15,4 @@ THIS VERSION IS NOT SUITABLE FOR ONLINE LIVE SERVERS
 - PATCHNOTES are available on the steampage
 
 
-- IF YOU FIND BUGS REPORT THEM ON MY DISCORD https://discord.com/invite/R7nDGNnvbq
+- IF YOU FIND BUGS REPORT THEM ON DISCORD https://discord.com/invite/R7nDGNnvbq .. I rarly check github for issues
