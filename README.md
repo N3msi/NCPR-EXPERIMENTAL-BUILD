@@ -10,7 +10,7 @@ THIS VERSION IS NOT SUITABLE FOR ONLINE LIVE SERVERS
 - no guarantees for anything. I follow a no-wipes-needed-policy for the stable version, not for experimental builds.
 - updates might be pushed in high frequency
 - files might not be complete
-- types.xml: its the one: regular https://github.com/N3msi/NCPR/blob/main/NM_TYPES.xml I mostly keep it up to date with the experminetal as well.
+- types.xml: its the regular one:  https://github.com/N3msi/NCPR/blob/main/NM_TYPES.xml I mostly keep it up to date with the experimental as well.
 - NCPR_AdminInfo.html is also mostly kept up-to-date meaning you find new recipes/items in there
 - PATCHNOTES are available on the steampage: https://steamcommunity.com/sharedfiles/filedetails/changelog/3803606205
 
